@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1600px"
+   height="1200px"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="page-profil-privé.svg">
+  <defs
+     id="defs2987" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.6"
+     inkscape:cx="557.48819"
+     inkscape:cy="776.05507"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:window-width="1918"
+     inkscape:window-height="989"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3807"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="8px"
+       spacingy="8px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3763"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Minecraftia;-inkscape-font-specification:Minecraftia"><flowRegion
+         id="flowRegion3765"><rect
+           id="rect3767"
+           width="163.33333"
+           height="156.66667"
+           x="275"
+           y="295" /></flowRegion><flowPara
+         id="flowPara3769">avatar</flowPara></flowRoot>    <g
+       id="g3775"
+       transform="translate(-69.352286,-374.98098)">
+      <rect
+         y="486.98099"
+         x="293.35229"
+         height="227.6857"
+         width="220.31435"
+         id="rect2993"
+         style="fill:#000000;fill-opacity:0.01388891;stroke:#000000;stroke-width:7.37134981;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3771"
+         y="616.8222"
+         x="402.08792"
+         style="font-size:45.41191864px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Monaco;-inkscape-font-specification:Monaco"
+         xml:space="preserve"><tspan
+           y="616.8222"
+           x="402.08792"
+           id="tspan3773"
+           sodipodi:role="line">avatar</tspan></text>
+    </g>
+    <g
+       id="g3775-6"
+       transform="translate(308.31588,-379.98101)">
+      <rect
+         y="491.98102"
+         x="171.68411"
+         height="223.99998"
+         width="864"
+         id="rect2993-6"
+         style="fill:#000000;fill-opacity:0.01388891;stroke:#000000;stroke-width:7.37134981;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3771-6"
+         y="564.75555"
+         x="239.3698"
+         style="font-size:45.41191864px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monaco;-inkscape-font-specification:Monaco"
+         xml:space="preserve"><tspan
+           y="564.75555"
+           x="239.3698"
+           id="tspan3773-0"
+           sodipodi:role="line">pseudo</tspan><tspan
+           y="621.52045"
+           x="239.3698"
+           sodipodi:role="line"
+           id="tspan3828">nom et prénom</tspan><tspan
+           y="678.28534"
+           x="239.3698"
+           sodipodi:role="line"
+           id="tspan3830">e-mail</tspan></text>
+    </g>
+    <g
+       id="g3775-6-6"
+       transform="translate(52.315878,219.24439)">
+      <rect
+         y="468.75562"
+         x="171.68413"
+         height="416"
+         width="1120"
+         id="rect2993-6-8"
+         style="fill:#000000;fill-opacity:0.01388891;stroke:#000000;stroke-width:7.37134981;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3771-6-0"
+         y="696.4397"
+         x="667.1189"
+         style="font-size:45.41191864px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monaco;-inkscape-font-specification:Monaco"
+         xml:space="preserve"><tspan
+           y="696.4397"
+           x="667.1189"
+           sodipodi:role="line"
+           id="tspan3924">stats</tspan></text>
+    </g>
+    <g
+       id="g3775-6-6-5"
+       transform="translate(-299.68414,-132.75402)">
+      <rect
+         y="500.75403"
+         x="523.68414"
+         height="96.000008"
+         width="1120"
+         id="rect2993-6-8-7"
+         style="fill:#000000;fill-opacity:0.01388891;stroke:#000000;stroke-width:7.37134981;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:22.11404943, 7.37134981;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3771-6-0-6"
+         y="565.17853"
+         x="1005.8035"
+         style="font-size:45.41191864px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monaco;-inkscape-font-specification:Monaco"
+         xml:space="preserve"><tspan
+           y="565.17853"
+           x="1005.8035"
+           sodipodi:role="line"
+           id="tspan3924-1">badges</tspan></text>
+    </g>
+    <g
+       id="g3775-6-6-51"
+       transform="translate(102.15871,69.088019)">
+      <rect
+         y="426.91199"
+         x="121.84129"
+         height="160"
+         width="1120"
+         id="rect2993-6-8-9"
+         style="fill:#000000;fill-opacity:0.01388891;stroke:#000000;stroke-width:7.37134981;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         ry="0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3771-6-0-7"
+         y="522.18103"
+         x="356.89792"
+         style="font-size:45.41191864px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monaco;-inkscape-font-specification:Monaco"
+         xml:space="preserve"><tspan
+           y="522.18103"
+           x="356.89792"
+           sodipodi:role="line"
+           id="tspan3924-0">historique des commandes</tspan></text>
+    </g>
+    <g
+       id="g3775-0"
+       transform="translate(858.64771,-470.98098)">
+      <rect
+         y="582.98096"
+         x="261.35229"
+         height="63.999977"
+         width="224"
+         id="rect2993-9"
+         style="fill:#000000;fill-opacity:0.01388891;stroke:#000000;stroke-width:7.37134981;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3771-1"
+         y="629.52478"
+         x="373.44247"
+         style="font-size:36.93209076px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Monaco;-inkscape-font-specification:Monaco"
+         xml:space="preserve"><tspan
+           y="629.52478"
+           x="373.44247"
+           id="tspan3773-5"
+           sodipodi:role="line">éditer</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:49.42712021px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Monaco;-inkscape-font-specification:Monaco"
+       x="799.38452"
+       y="-16"
+       id="text4159"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4161"
+         x="799.38452"
+         y="-16">Page de profil (privée)</tspan></text>
+  </g>
+</svg>
