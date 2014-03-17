@@ -14,7 +14,7 @@
    id="svg2985"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="edition-infos-perso.svg">
+   sodipodi:docname="page-profil-privé.svg">
   <defs
      id="defs2987" />
   <sodipodi:namedview
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.42426407"
-     inkscape:cx="862.97535"
-     inkscape:cy="565.76612"
+     inkscape:cx="856.30406"
+     inkscape:cy="590.20422"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
      showgrid="true"
@@ -35,8 +35,7 @@
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true">
+     inkscape:snap-bbox="true">
     <inkscape:grid
        type="xygrid"
        id="grid3807"
@@ -74,119 +73,90 @@
            x="275"
            y="295" /></flowRegion><flowPara
          id="flowPara3769">avatar</flowPara></flowRoot>    <g
+       id="g3775"
+       transform="translate(-69.352286,-374.98098)"
+       inkscape:export-filename="/var/www/src2-s4-php/docs/mockups/page-de-profil-privee.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="486.98099"
+         x="293.35229"
+         height="227.6857"
+         width="220.31435"
+         id="rect2993"
+         style="fill:#000000;fill-opacity:0.01388891;stroke:#000000;stroke-width:7.37134981;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3771"
+         y="616.8222"
+         x="402.08792"
+         style="font-size:45.41191864px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Monaco;-inkscape-font-specification:Monaco"
+         xml:space="preserve"><tspan
+           y="616.8222"
+           x="402.08792"
+           id="tspan3773"
+           sodipodi:role="line">avatar</tspan></text>
+    </g>
+    <g
        id="g3775-6"
-       transform="translate(311.38613,-322.76964)"
+       transform="translate(308.31588,-379.98101)"
+       inkscape:export-filename="/var/www/src2-s4-php/docs/mockups/page-de-profil-privee.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
       <rect
          y="491.98102"
-         x="-84.31588"
-         height="224.00002"
-         width="1120"
+         x="171.68411"
+         height="223.99998"
+         width="864"
          id="rect2993-6"
          style="fill:#000000;fill-opacity:0.01388891;stroke:#000000;stroke-width:7.37134981;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <text
          sodipodi:linespacing="125%"
          id="text3771-6"
-         y="564.75555"
-         x="-20.31588"
+         y="610.3576"
+         x="234.21458"
          style="font-size:45.41191864px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monaco;-inkscape-font-specification:Monaco"
          xml:space="preserve"><tspan
-           y="564.75555"
-           x="-20.31588"
-           id="tspan3773-0"
-           sodipodi:role="line">pseudo</tspan><tspan
-           y="621.52045"
-           x="-20.31588"
+           y="610.3576"
+           x="234.21458"
            sodipodi:role="line"
-           id="tspan3828">nom et prénom</tspan><tspan
-           y="678.28534"
-           x="-20.31588"
+           id="tspan3830">pseudo</tspan></text>
+    </g>
+    <g
+       id="g3775-6-6-5"
+       transform="translate(-299.68414,-132.75402)"
+       inkscape:export-filename="/var/www/src2-s4-php/docs/mockups/page-de-profil-privee.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         y="500.75403"
+         x="523.68414"
+         height="96.000008"
+         width="1120"
+         id="rect2993-6-8-7"
+         style="fill:#000000;fill-opacity:0.01388891;stroke:#000000;stroke-width:7.37134981;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:22.11404943, 7.37134981;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3771-6-0-6"
+         y="565.17853"
+         x="1005.8035"
+         style="font-size:45.41191864px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monaco;-inkscape-font-specification:Monaco"
+         xml:space="preserve"><tspan
+           y="565.17853"
+           x="1005.8035"
            sodipodi:role="line"
-           id="tspan3830">e-mail</tspan></text>
+           id="tspan3924-1">badges</tspan></text>
     </g>
     <text
        xml:space="preserve"
        style="font-size:49.42712021px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Monaco;-inkscape-font-specification:Monaco"
-       x="767.38458"
-       y="69.525696"
+       x="799.38452"
+       y="-16"
        id="text4159"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan4161"
-         x="767.38458"
-         y="69.525696">Édition des informations personnelles</tspan></text>
-    <g
-       id="g3775-6-3"
-       transform="translate(307.07181,152.91602)"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <rect
-         y="496.29535"
-         x="-80.001556"
-         height="224"
-         width="1120"
-         id="rect2993-6-2"
-         style="fill:#000000;fill-opacity:0.01388891;stroke:#000000;stroke-width:7.37134981;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3771-6-4"
-         y="626.17853"
-         x="-20.31588"
-         style="font-size:45.41191864px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monaco;-inkscape-font-specification:Monaco"
-         xml:space="preserve"><tspan
-           y="626.17853"
-           x="-20.31588"
-           sodipodi:role="line"
-           id="tspan3830-5">coordonnées de facturation</tspan></text>
-    </g>
-    <g
-       id="g3775-6-3-9"
-       transform="translate(303.38613,412.60169)"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <rect
-         y="492.60968"
-         x="-76.31588"
-         height="223.99998"
-         width="1120"
-         id="rect2993-6-2-4"
-         style="fill:#000000;fill-opacity:0.01388891;stroke:#000000;stroke-width:7.37134981;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3771-6-4-1"
-         y="622.49286"
-         x="-20.31588"
-         style="font-size:45.41191864px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monaco;-inkscape-font-specification:Monaco"
-         xml:space="preserve"><tspan
-           y="622.49286"
-           x="-20.31588"
-           sodipodi:role="line"
-           id="tspan3830-5-1">coordonnées de livraison</tspan></text>
-    </g>
-    <g
-       id="g3775-6-3-95"
-       transform="translate(307.07181,-93.727472)"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <rect
-         y="518.93884"
-         x="-80.001556"
-         height="188.31432"
-         width="1116.3143"
-         id="rect2993-6-2-0"
-         style="fill:#000000;fill-opacity:0.01388891;stroke:#000000;stroke-width:7.37134981;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3771-6-4-4"
-         y="626.17853"
-         x="-20.31588"
-         style="font-size:45.41191864px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monaco;-inkscape-font-specification:Monaco"
-         xml:space="preserve"><tspan
-           y="626.17853"
-           x="-20.31588"
-           sodipodi:role="line"
-           id="tspan3830-5-4">mot de passe</tspan></text>
-    </g>
+         x="799.38452"
+         y="-16">Page de profil (publique)</tspan></text>
   </g>
 </svg>

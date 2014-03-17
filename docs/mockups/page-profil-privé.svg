@@ -25,15 +25,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.6"
-     inkscape:cx="557.48819"
-     inkscape:cy="776.05507"
-     inkscape:current-layer="layer1"
+     inkscape:cx="709.15486"
+     inkscape:cy="606.05507"
+     inkscape:current-layer="g3775-6"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:window-width="1918"
-     inkscape:window-height="989"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true">
     <inkscape:grid
@@ -74,7 +74,10 @@
            y="295" /></flowRegion><flowPara
          id="flowPara3769">avatar</flowPara></flowRoot>    <g
        id="g3775"
-       transform="translate(-69.352286,-374.98098)">
+       transform="translate(-69.352286,-374.98098)"
+       inkscape:export-filename="/var/www/src2-s4-php/docs/mockups/page-de-profil-privee.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          y="486.98099"
          x="293.35229"
@@ -96,7 +99,10 @@
     </g>
     <g
        id="g3775-6"
-       transform="translate(308.31588,-379.98101)">
+       transform="translate(308.31588,-379.98101)"
+       inkscape:export-filename="/var/www/src2-s4-php/docs/mockups/page-de-profil-privee.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          y="491.98102"
          x="171.68411"
@@ -107,48 +113,21 @@
       <text
          sodipodi:linespacing="125%"
          id="text3771-6"
-         y="564.75555"
-         x="239.3698"
+         y="610.3576"
+         x="234.21458"
          style="font-size:45.41191864px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monaco;-inkscape-font-specification:Monaco"
          xml:space="preserve"><tspan
-           y="564.75555"
-           x="239.3698"
-           id="tspan3773-0"
-           sodipodi:role="line">pseudo</tspan><tspan
-           y="621.52045"
-           x="239.3698"
+           y="610.3576"
+           x="234.21458"
            sodipodi:role="line"
-           id="tspan3828">nom et prénom</tspan><tspan
-           y="678.28534"
-           x="239.3698"
-           sodipodi:role="line"
-           id="tspan3830">e-mail</tspan></text>
-    </g>
-    <g
-       id="g3775-6-6"
-       transform="translate(52.315878,219.24439)">
-      <rect
-         y="468.75562"
-         x="171.68413"
-         height="416"
-         width="1120"
-         id="rect2993-6-8"
-         style="fill:#000000;fill-opacity:0.01388891;stroke:#000000;stroke-width:7.37134981;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3771-6-0"
-         y="696.4397"
-         x="667.1189"
-         style="font-size:45.41191864px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monaco;-inkscape-font-specification:Monaco"
-         xml:space="preserve"><tspan
-           y="696.4397"
-           x="667.1189"
-           sodipodi:role="line"
-           id="tspan3924">stats</tspan></text>
+           id="tspan3830">pseudo</tspan></text>
     </g>
     <g
        id="g3775-6-6-5"
-       transform="translate(-299.68414,-132.75402)">
+       transform="translate(-299.68414,-132.75402)"
+       inkscape:export-filename="/var/www/src2-s4-php/docs/mockups/page-de-profil-privee.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          y="500.75403"
          x="523.68414"
@@ -169,31 +148,11 @@
            id="tspan3924-1">badges</tspan></text>
     </g>
     <g
-       id="g3775-6-6-51"
-       transform="translate(102.15871,69.088019)">
-      <rect
-         y="426.91199"
-         x="121.84129"
-         height="160"
-         width="1120"
-         id="rect2993-6-8-9"
-         style="fill:#000000;fill-opacity:0.01388891;stroke:#000000;stroke-width:7.37134981;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         ry="0" />
-      <text
-         sodipodi:linespacing="125%"
-         id="text3771-6-0-7"
-         y="522.18103"
-         x="356.89792"
-         style="font-size:45.41191864px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Monaco;-inkscape-font-specification:Monaco"
-         xml:space="preserve"><tspan
-           y="522.18103"
-           x="356.89792"
-           sodipodi:role="line"
-           id="tspan3924-0">historique des commandes</tspan></text>
-    </g>
-    <g
        id="g3775-0"
-       transform="translate(858.64771,-470.98098)">
+       transform="translate(858.64771,-470.98098)"
+       inkscape:export-filename="/var/www/src2-s4-php/docs/mockups/page-de-profil-privee.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
       <rect
          y="582.98096"
          x="261.35229"
