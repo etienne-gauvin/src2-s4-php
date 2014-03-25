@@ -3,18 +3,18 @@
 	require_once('template/header.php');
 ?>
 
-<form method="post">
-	<label> Pseudo : <input type="text" name="pseudo"/></label><br/>
-	<label> Mot de passe : <input type="password" name="pass"/></label><br/>
-	<label> Confirmer le mot de passe : <input type="password" name="pass2"/></label><br/>
-	<label> Nom : <input type="text" name="nom"/></label><br/>
-	<label> Prénom : <input type="text" name="prenom"/></label><br/>
-	<label> Adresse e-mail : <input type="text" name="email"/></label><br/>
-	<label> Adresse complète (nom de rue et numéro) : <input type="text" name="adresse"/></label><br/>
-	<label> Complément d'adresse : <input type="text" name="adresse_2"/></label><br/>
-	<label> Ville : <input type="text" name="ville"/></label><br/>
-	<label> Code Postal: <input type="text" name="code_postal"/></label><br/>
-	<label> Téléphone : <input type="text" name="telephone"/></label><br/>
+<form class="inscription" action="effectuer-inscription.php" method="post">
+	<label> Pseudo : <input type="text" name="pseudo"/></label>
+	<label> Mot de passe : <input type="password" name="pass"/></label>
+	<label> Confirmer le mot de passe : <input type="password" name="pass2"/></label>
+	<label> Nom : <input type="text" name="nom"/></label>
+	<label> Prénom : <input type="text" name="prenom"/></label>
+	<label> Adresse e-mail : <input type="text" name="email"/></label>
+	<label> Adresse complète (nom de rue et numéro) : <input type="text" name="adresse"/></label>
+	<label> Complément d'adresse : <input type="text" name="adresse_2"/></label>
+	<label> Ville : <input type="text" name="ville"/></label>
+	<label> Code Postal: <input type="text" name="code_postal"/></label>
+	<label> Téléphone : <input type="text" name="telephone"/></label>
 	<input type="submit" value="Je m'inscris"/>
 </form>
 
