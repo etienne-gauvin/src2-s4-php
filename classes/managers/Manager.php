@@ -55,7 +55,7 @@ abstract class Manager extends DbConnexion {
         if(isset($req['order'])) {
             $sql .= ' ORDER BY '.$req['order'];
         }
-
+		
         $r = self::getConnexion()->query($sql);
         $dbObjects = $r->fetchAll(PDO::FETCH_ASSOC);
 
@@ -67,28 +67,29 @@ abstract class Manager extends DbConnexion {
     }
 
     public function save($data) {
+		if(is_object($data)) {
+			$data = $data->get_vars();
+		}
+		
         $fields = array();
         $values = array();
 
-        if(isset($data->id) && empty($data->id)) {
-            unset($data->id);
-        }
-
         foreach($data as $k => $v) {
-            $fields[] = "$k=:$k";
-            $values[":$k"] = $v;
+			if($k != 'id' || ($k == 'id' && !empty($v))) {
+				$fields[] = "$k=:$k";
+				$values[":$k"] = $v;
+			}
         }
 
-
-        if(isset($data->id) && !empty($data->id)) {
+        if(isset($data['id']) && !empty($data['id'])) {
             $sql = 'UPDATE ' . $this->table . ' SET ' . implode(', ', $fields) . ' WHERE id = :id';
         } else {
             $sql = 'INSERT INTO ' . $this->table . ' SET ' . implode(', ', $fields);
         }
-
+		
         $pre = self::getConnexion()->prepare($sql);
         $result = $pre->execute($values);
-
+		
         return $result;
     }
 
@@ -111,4 +112,9 @@ abstract class Manager extends DbConnexion {
 
         return $entities;
     }
+	
+	public function getLastId() {
+		return self::getConnexion()->lastInsertId();
+	}
+	
 }

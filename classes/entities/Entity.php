@@ -21,9 +21,15 @@ abstract class Entity {
             if(method_exists($this, $method)) {
                 $this->$method($v);
             } else {
-                $this->$k = $v;
+				if(property_exists($this, $k)) {
+					$this->$k = $v;
+				}
             }
         }
 	}
+	
+	public function get_vars() {
+		return get_object_vars($this);
+	}	
 
 }

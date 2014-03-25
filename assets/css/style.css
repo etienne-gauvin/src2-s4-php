@@ -38,7 +38,23 @@ div.produits a.produit {
     padding: 0px 25px;
     background-color: #DD4814;
 }
+
 div.coupons a.coupon:last-of-type,
 div.produits a.produit:last-of-type {
     margin: 0px;
+}
+
+.fiche-utilisateur {
+    
+}
+
+.fiche-utilisateur h2 {
+    line-height: 40px;
+    margin: 0;
+}
+
+.fiche-utilisateur .avatar {
+    float: left;
+    margin-right: 20px;
+    display: block;
 }
