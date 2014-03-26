@@ -26,7 +26,7 @@ class UtilisateurManager extends Manager
     * @return bool
     */
   
-  public static function pseudoExists($pseudo) {
-    return $this->find(array("pseudo" = $pseudo));
+  public function pseudoExists($pseudo) {
+    return !empty($this->find(array("conditions" => array("pseudo" => $pseudo))));
   }
 }
