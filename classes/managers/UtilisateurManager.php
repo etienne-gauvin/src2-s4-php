@@ -20,4 +20,13 @@ class UtilisateurManager extends Manager
     
   }
   
+   /**
+    * Vérifier l'existence d'un pseudo
+    * @param string $pseudo
+    * @return bool
+    */
+  
+  public static function pseudoExists($pseudo) {
+    return $this->find(array("pseudo" = $pseudo));
+  }
 }
