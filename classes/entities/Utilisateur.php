@@ -9,7 +9,7 @@ class Utilisateur extends Entity
   protected $pseudo, $nom, $prenom, $email, $urlAvatar;
   
   // Regex pour le pseudonyme
-  const REGEX_PSEUDO = "#^[a-z][a-z0-9-_]{2,44}$#i";
+  const REGEX_PSEUDO = "#^[a-z0-9-_]{3,44}$#i";
   
   /**
    * Retourne l'URL de l'avatar de l'utilisateur.
@@ -50,4 +50,16 @@ class Utilisateur extends Entity
       preg_match("#[0-9]#", $pseudo) > 0;
   }
    
+   /**
+    * Vérifier la validité d'un nom ou d'un prénom
+    * @param string $nom
+    * @return bool
+    */
+  
+  public static function checkNom($nom) {
+    return
+      !empty($nom) and
+      is_string($nom) and
+      length($nom) >= 2;
+  }
 }
